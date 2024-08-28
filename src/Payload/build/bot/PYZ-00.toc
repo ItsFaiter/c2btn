@@ -1,4 +1,4 @@
-('F:\\Sources\\KryptonC2-main\\src\\Payload\\build\\bot\\PYZ-00.pyz',
+('F:\\Sources\\KryptonC2-main\\c2btn\\src\\Payload\\build\\bot\\PYZ-00.pyz',
  [('OpenSSL',
    'C:\\Users\\ItsFa\\AppData\\Roaming\\Python\\Python312\\site-packages\\OpenSSL\\__init__.py',
    'PYMODULE'),
